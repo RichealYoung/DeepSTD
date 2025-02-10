@@ -1,0 +1,16 @@
+compressai>=1.2.0
+einops>=0.4.1
+h5py>=3.6.0
+matplotlib>=3.4.3
+nibabel>=3.2.1
+numpy>=1.19.2
+pillow>=8.3.2
+pytorch-msssim>=0.2.1
+scikit-image>=0.18.3
+scipy>=1.7.0
+SimpleITK>=2.1.1
+tensorboard>=2.7.0
+timm>=0.5.4
+torch>=1.10.0
+torchvision>=0.11.0
+tqdm>=4.62.3
